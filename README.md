@@ -1,5 +1,61 @@
-# 💫 About Me:
-Hi, I’m Aayush<br><br>🚀 Backend-focused Python Developer with a strong interest in building clean, scalable, and secure APIs.<br>I primarily work with FastAPI on Linux, and I also build Flutter applications integrated with Firebase.<br>I have intermediate-level cybersecurity knowledge, which helps me design systems with security in mind.<br><br>What I Do<br><br>Python Development — logic-driven, clean code<br><br>FastAPI Backends — high-performance REST APIs<br><br>Linux — daily driver and system-level comfort<br><br>Flutter App Development — cross-platform apps<br><br>Firebase — authentication and cloud services<br><br>Cybersecurity — intermediate knowledge, security-aware development<br><br>Tech Stack<br><br>Backend<br><br>Python, FastAPI<br><br>REST APIs, JWT, Authentication<br><br>App<br><br>Flutter, Firebase<br><br>Tools & Systems<br><br>Linux, Git, GitHub, VS Code<br><br>Mindset<br><br>Learning by building real projects<br><br>Writing simple, maintainable code<br><br>Performance and security as priorities<br><br>Contact<br><br>📧 Email: aayushbruhh4@gmail.com
+👋 Hey, I’m Aayush
+
+🚀 Backend-focused Python Developer with a strong love for clean APIs, Linux systems, and secure architecture.
+I enjoy building fast, scalable backends, crafting smooth Flutter apps, and understanding how things break—so I can make them stronger.
+
+💻 What I Do
+
+🐍 Python Developer — clean code, logic-first mindset
+
+⚡ FastAPI Backend — high-performance REST APIs
+
+🐧 Linux Power User — daily driver, CLI lover
+
+📱 Flutter App Developer — cross-platform UI with real-world logic
+
+🔥 Firebase — auth, database, cloud integration
+
+🛡️ Cybersecurity (Intermediate) — security awareness, basics of exploitation & defense
+
+🧠 Tech Stack
+
+Backend
+
+Python • FastAPI • REST APIs
+
+Authentication • JWT • API Security
+
+Frontend / App
+
+Flutter • Dart
+
+Firebase Auth • Firestore
+
+Systems & Tools
+
+Linux (primary OS)
+
+Git & GitHub • VS Code
+
+Security
+
+Cybersecurity fundamentals
+
+Secure coding practices
+
+🎯 Mindset
+
+I believe in learning by building
+
+I focus on simplicity, performance, and security
+
+I like understanding how systems work under the hood
+
+Always improving. Always experimenting.
+
+📫 Let’s Connect
+
+📧 Email: aayushbruhh4@gmail.com
 
 
 ## 🌐 Socials:
